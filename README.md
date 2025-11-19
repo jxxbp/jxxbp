@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bektas</h1>
-<h3 align="center">A passionate Software Engineer from Kazakhstan</h3>
+<h3 align="center">A passionate Developer from Kazakhstan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
